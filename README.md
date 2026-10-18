@@ -127,3 +127,12 @@ It showcases how interactive dashboards can turn campaign data into actionable i
 ## 👨‍💻 Skills Demonstrated
 
 Power BI | DAX | Power Query | Data Visualization | Marketing Analytics | KPI Tracking | Campaign Analysis | ROAS Analysis | Data Storytelling
+
+
+## 6. Screenshot / Demo
+
+**📸 Dashboard Preview**
+
+The screenshot below provides an overview of the Marketing Performance Dashboard built using Power BI.
+
+![Marketing Performance Dashboard](images/Marketing-Performance-Dashboard.png)
