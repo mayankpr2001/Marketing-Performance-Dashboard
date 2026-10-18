@@ -135,4 +135,4 @@ Power BI | DAX | Power Query | Data Visualization | Marketing Analytics | KPI Tr
 
 The screenshot below provides an overview of the Marketing Performance Dashboard built using Power BI.
 
-![Marketing Performance Dashboard](images/Marketing-Performance-Dashboard.png)
+![Marketing Performance Dashboard](https://github.com/mayankpr2001/Marketing-Performance-Dashboard/blob/main/Marketing%20Performance%20Dashboard.png)
